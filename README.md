@@ -1,7 +1,6 @@
 # Assignment for LDD
 
 **Task**
-
 * Write a driver alongwith application to perform following string functions :  
 	1.strncpy  
 	2.strncat  
@@ -10,10 +9,10 @@
 	5.strcmp  
 	
 	
-All the string should be taken from user via application and then send to kernel to perform these operations using string functions
+All the string should be taken from user via application and then send to kernel to perform these operations using string functions.
  
 ## Attached codes
 
-``query_app.c`` : user application
+``query_app.c`` : User application.
 
-``query_ioctl.c``
+``query_ioctl.c`` ; Linux driver for string operations.

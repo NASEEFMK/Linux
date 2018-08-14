@@ -1,11 +1,14 @@
-# Assignment for Synchronization Mechanisms
+# Assignment for LDD
 
 **Task**
 
-*  Understand concept of Kernel Mode and User Mode.
-*  Create sample code for the following...
-	* [ ]  Dead-lock scenario and solution.
-	* [ ]  Producer-consumer problem and solution.
+*Write a driver alongwith application to perform following string functions :
+	1.strncpy
+	2.strncat
+	3.strlen
+	4.strrev
+	5.strcmp
+All the string should be taken from user via application and then send to kernel to perform these operations using string functions
  
 ## Attached codes
 

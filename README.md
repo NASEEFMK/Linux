@@ -15,4 +15,5 @@ All the string should be taken from user via application and then send to kernel
 ## Attached codes
 
 ``query_app.c`` : user application
+
 ``query_ioctl.c``

@@ -2,7 +2,7 @@
 
 **Task**
 
-*Write a driver alongwith application to perform following string functions :
+* Write a driver alongwith application to perform following string functions :
 	1.strncpy
 	2.strncat
 	3.strlen

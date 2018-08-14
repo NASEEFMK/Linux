@@ -8,7 +8,6 @@
 	Details : A ticket generation system containing one server handling ticket delivery and 3 clients requesting tickets.
 	each client request server a ticket by passing client no and ticket returning Q id through a Q created by server. Server will calculate A serial no
 	other info and pass that structure through the Q id passed by client back to client also server record deliverd ticket info in a file stored in Filesystem
-	Completion Date : 14-08-2018
 
 * [ ] Block diagram for above define software architecture.
 	

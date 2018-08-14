@@ -2,7 +2,7 @@
 
 **Task**
 
-*  Understand the difference between pipe And Message Q
+* [ ] Understand the difference between pipe And Message Q
 
 * [ ] Write a C program following both system-V and POSIX standerd message Q API's
 	Details : A ticket generation system containing one server handling ticket delivery and 3 clients requesting tickets.

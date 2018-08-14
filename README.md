@@ -1,15 +1,21 @@
-# Assignment for LDD
+# Assignment for Message Q
 
 **Task**
-* Write a driver alongwith application to perform following string functions :  
-	1.strncpy  
-	2.strncat  
-	3.strlen  
-	4.strrev  
-	5.strcmp  
+
+*  Understand the difference between pipe And Message Q
+
+* [] Write a C program following both system-V and POSIX standerd message Q API's
+	Details : A ticket generation system containing one server handling ticket delivery and 3 clients requesting tickets.
+	each client request server a ticket by passing client no and ticket returning Q id through a Q created by server. Server will calculate A serial no
+	other info and pass that structure through the Q id passed by client back to client also server record deliverd ticket info in a file stored in Filesystem
+	Completion Date : 14-08-2018
+
+* [] Block diagram for above define software architecture.
 	
-	
-All the string should be taken from user via application and then send to kernel to perform these operations using string functions.
+* [ ] An example program using mq_notify() - Date : 13-08-2018
+ 
+
+
  
 ## Attached codes
 

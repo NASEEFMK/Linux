@@ -7,4 +7,5 @@
 * [ ] Output string should be in below format.  
      username:parameter-name:address 
      Eg: vkchlt0116:IP:192.168.239.70 : when user select IP
-         vkchlt0116:NETMASK:255.255.255.0 : when user select NETMASK
+     
+     vkchlt0116:NETMASK:255.255.255.0 : when user select NETMASK

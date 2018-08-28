@@ -9,3 +9,7 @@
      Eg: vkchlt0116:IP:192.168.239.70 : when user select IP
      
      vkchlt0116:NETMASK:255.255.255.0 : when user select NETMASK
+#Attached code
+``process1.c``:program to read network parameters like IP/NETMASK/GATEWAY/DNS address of WiFi/Ethernet interface
+
+``process2.c``:program to concatenates the received address from P1

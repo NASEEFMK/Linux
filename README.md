@@ -2,10 +2,12 @@
 
 ## Task
   
-Create sample branches from a top branch [ a coordinator branch ] under gitlabs and do mergerequests against this branch and assign this requests to your colleagues.  
+Create sample branches from a top branch [ a coordinator branch ] under gitlabs and do mergerequests against this branch and assign this requests to your colleagues.
+
 Make sample programmes under each branches. ref available under training/docs/SW3_Gitlabs/directory.  
 Review merge requests, raise issues based on this after merge all requests to the coordinator branch.
-raise the merge request of this coordinator branch against the master branch and assign to me which contains all your internally reviewed codes and documentations. 
+
+Raise the merge request of this coordinator branch against the master branch and assign to me which contains all your internally reviewed codes and documentations. 
 
 ### Attached code
 

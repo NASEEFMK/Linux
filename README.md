@@ -13,4 +13,4 @@ Raise the merge request of this coordinator branch against the master branch and
 
 ``calc.c`` - simple calculator program.
 
-Ceated one  branch  ``sw3_naseef`` and added the code without fucnctions.Created two sub branches under this branch ``b1_naseef`` and ``b2_naseef``.In ``b1_naseef`` added functions to perfom operations division and multiplication.Then merge ``b1_naseef`` to ``sw3_naseef``.In ``b2_naseef`` added functions to addition and subtraction, Then merge to ``sw3_naseef`` ,that time it shows conflicts.Resolved the conflicts and merged it to ``sw3_naseef``.
+Created one  branch  ``sw3_naseef`` and added the code without fucnctions.Created two sub branches under this branch ``b1_naseef`` and ``b2_naseef``.In ``b1_naseef`` added functions to perfom operations division and multiplication.Then merge ``b1_naseef`` to ``sw3_naseef``.In ``b2_naseef`` added functions to addition and subtraction, Then merge to ``sw3_naseef`` ,that time it shows conflicts.Resolved the conflicts and merged it to ``sw3_naseef``.

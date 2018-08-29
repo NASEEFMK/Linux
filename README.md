@@ -1,14 +1,30 @@
-## Assignment for PIPE and FIFO ##
+## Assignment for Gitlab ##
 
 # Task
+  Understand 2FA and get the proper logins to gitlabs.
+  
+  Create sample branches from a top branch [ a coordinator branch ] under gitlabs and do mergerequests against this branch and assign this requests to your colleagues.
 
-* [ ] Write Linux C program to create two processes P1 and P2. P1 Needs to read network parameters like IP/NETMASK/gateway/DNS address of WiFi/Ethernet interface of your laptop and passes it to P2 as per user selection. P2 concatenates the received address from P1 with your laptop username and needs to print the string.
+  Make sample programmes under each branches. ref available under training/docs/SW3_Gitlabs/directory.
 
-* [ ] Output string should be in below format. username:parameter-name:address   
-      Eg: vkchlt0116:IP:192.168.239.70 : when user select IP  
-      vkchlt0116:NETMASK:255.255.255.0 : when user select NETMASK
-# Attached code
+  Review merge requests, raise issues based on this after merge all requests to the coordinator branch.
 
-``process1.c``:program to read network parameters like IP/NETMASK/GATEWAY/DNS address of WiFi/Ethernet interface
+  raise the merge request of this coordinator branch against the master branch and assign to me which contains all your internally reviewed codes and documentations. 
 
-``process2.c``:program to concatenates the received address from P1
+  Follow up the master merge requests and review comments. 
+
+``calc.c`` - simple calculator program.
+
+* ceated one  brach  "conflict_hrishikesh" and added the code without fucnctions to do operations.
+
+* created two sub branches under this branch "B1_hrishikesh" and "B2_hrishikesh".
+
+* In "B1_hrishikesh" added functions to perfom operations like  sustraction, division,  multiplication.
+
+* Then raise merge request to branch "conflict_hrishikesh" and merged these branches.
+
+* In "B2_hrishikesh" added functions to perfom addition.
+
+* Then raise merge request to branch "conflict_hrishikesh".
+
+* Resolved the conflicts and merged it to "conflict_hrishikesh".

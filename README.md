@@ -5,4 +5,8 @@
 
 - Process the DHCP offer packet.
 
--Generate the DHCP request and recv the ACK.
+- Generate the DHCP request and recv the ACK.
+
+### Attached code
+
+``dhcp_client.c``: This program obtain IP address from DHCP server
